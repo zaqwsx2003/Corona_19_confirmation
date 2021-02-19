@@ -21,6 +21,7 @@
 > pip install BeautifulSoup
 ```
 ---
-참고 자료
+관련 모듈
 ---
-[GUI 자동화를 통해 키보드 및 마우스 제어 자료](https://automatetheboringstuff.com/chapter18/)
+[BeautifulSoup4](https://pypi.org/project/beautifulsoup4/)
+[Soupsieve](https://pypi.org/project/soupsieve/)
